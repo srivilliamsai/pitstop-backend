@@ -1,9 +1,0 @@
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/repository/BnplTransactionRepo.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/domain/BnplUser.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/BnplServiceApplication.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/domain/BnplTransaction.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/repository/BnplUserRepo.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/dto/PaymentInfoDTO.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/config/SwaggerConfig.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/web/BnplController.java
-/Users/sriwilliamsai/eclipse-workspace/pitstop-backend/bnpl-service/src/main/java/com/pitstop/bnpl/client/PaymentClient.java

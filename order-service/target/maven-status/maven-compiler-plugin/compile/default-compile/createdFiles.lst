@@ -1,7 +1,0 @@
-com/pitstop/orderservice/repo/OrderRepo.class
-com/pitstop/orderservice/OrderServiceApplication.class
-com/pitstop/orderservice/web/OrderController.class
-com/pitstop/orderservice/domain/Order$Status.class
-com/pitstop/orderservice/domain/Order$Type.class
-com/pitstop/orderservice/config/SwaggerConfig.class
-com/pitstop/orderservice/domain/Order.class

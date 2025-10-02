@@ -1,5 +1,0 @@
-com/pitstop/mechanic/MechanicServiceApplication.class
-com/pitstop/mechanic/web/MechanicController.class
-com/pitstop/mechanic/repo/MechanicRepo.class
-com/pitstop/mechanic/domain/Mechanic.class
-com/pitstop/mechanic/config/SwaggerConfig.class
