@@ -1,9 +1,24 @@
+# === Build directories ===
 **/target/
-*.iml
-*.log
-*.class
-.idea/
-.gradle/
 build/
-.env
+
+# === IDE files ===
+.idea/
+*.iml
+
+# === OS files ===
 *.DS_Store
+Thumbs.db
+
+# === Logs & temp ===
+*.log
+
+# === Java class files ===
+*.class
+
+# === Gradle ===
+.gradle/
+
+# === Env files ===
+.env
+.env.local
