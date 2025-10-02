@@ -1,0 +1,7 @@
+com/pitstop/userservice/domain/User.class
+com/pitstop/userservice/config/SecurityConfig.class
+com/pitstop/userservice/web/AuthController.class
+com/pitstop/userservice/web/UserController.class
+com/pitstop/userservice/UserServiceApplication.class
+com/pitstop/userservice/domain/User$Role.class
+com/pitstop/userservice/repo/UserRepo.class
