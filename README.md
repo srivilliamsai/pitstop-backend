@@ -93,7 +93,7 @@ pitstop-backend/
 
 | Layer | Technology | Description |
 |:------|:------------|:-------------|
-| **Language** | Java 17 | Modern, type-safe JVM language |
+| **Language** | Java 8  | Modern, type-safe JVM language |
 | **Framework** | Spring Boot 2.7.x | Microservice foundation |
 | **Cloud Tools** | Spring Cloud Netflix | Eureka, Gateway, Config |
 | **Build Tool** | Maven 3.9.x | Multi-module dependency management |
